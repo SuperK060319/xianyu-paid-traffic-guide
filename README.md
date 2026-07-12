@@ -2,6 +2,10 @@
 
 把原 PDF 里的闲鱼/小红书接单经验，整理成一个可以直接打开的网页式教程。
 
+公开页面：
+
+https://superk060319.github.io/xianyu-paid-traffic-guide/
+
 ## 页面内容
 
 - 7 天执行盘
